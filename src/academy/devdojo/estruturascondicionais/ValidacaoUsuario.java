@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais;
+
 import java.util.Scanner;
 
 public class ValidacaoUsuario {

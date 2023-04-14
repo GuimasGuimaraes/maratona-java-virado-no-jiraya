@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 import java.util.Scanner;
 
 public class DiasSemanais {
@@ -9,24 +11,21 @@ public class DiasSemanais {
 
         if (diaDaSemana == 1) {
             System.out.println("Hoje é Segunda feira!");
-        }else if (diaDaSemana == 2) {
+        } else if (diaDaSemana == 2) {
             System.out.println("Hoje é Terca feira!");
-        }else if (diaDaSemana == 3) {
+        } else if (diaDaSemana == 3) {
             System.out.println("Hoje é Quarta feira!");
-        }else if (diaDaSemana == 4) {
+        } else if (diaDaSemana == 4) {
             System.out.println("Hoje é Quinta feira!");
-        }else if (diaDaSemana == 5) {
+        } else if (diaDaSemana == 5) {
             System.out.println("Hoje é Sexta Feira");
-        }else if (diaDaSemana == 6 ) {
+        } else if (diaDaSemana == 6) {
             System.out.println("Hoje é Sábado");
-        }else if (diaDaSemana == 7){
+        } else if (diaDaSemana == 7) {
             System.out.println("Hoje é Domingo");
-        }else {
+        } else {
             System.out.println("Dia inválido, digite um número de 1 a 7");
         }
-
-
-
 
 
     }

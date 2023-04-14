@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais;
+
 public class AlistamentoMilitar {
     public static void main(String[] args) {
         char sexo = 'F';
