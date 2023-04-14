@@ -13,6 +13,7 @@ public class ValidacaoUsuario {
             System.out.println(nome + " castrado com sucesso");
         }
 
+        System.out.println("Testando");
 
     }
 }
