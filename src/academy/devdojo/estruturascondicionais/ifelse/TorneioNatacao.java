@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais;/*menor de 10 = nome participara da categ infantil
+package academy.devdojo.estruturascondicionais.ifelse;/*menor de 10 = nome participara da categ infantil
 entre 11 e 15 nome cat juvenil
 entre 16 e 19 nome cat pre-adulto
 acima de 20 nome cat adulto
