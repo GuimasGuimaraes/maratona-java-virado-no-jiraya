@@ -11,7 +11,7 @@ public class ExerciciosArraysMultidimensionais {
         arrayMulti[1][2] = 9;
         arrayMulti[2][0] = 2;
         arrayMulti[2][1] = 5;
-        arrayMulti[2][2] = 21;
+        arrayMulti[2][2] = 23;
         int resultadoMultiplicacaoDiagonal = 1;
         for (int i = 0; i < arrayMulti.length ; i++) {
             for (int j = 0; j < arrayMulti.length; j++) {
