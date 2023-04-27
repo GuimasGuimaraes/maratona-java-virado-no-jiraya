@@ -2,7 +2,7 @@ package academy.devdojo.arrays.unidimensional;
 
 import java.util.Scanner;
 
-public class ArraysComFor {
+public class Aula02ArraysComFor {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double[] notas = new double[5];
